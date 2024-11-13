@@ -2,6 +2,9 @@
 
 ### Dashboard Link : https://public.tableau.com/app/profile/maxim.yurchak/viz/PizzaSalesReport_17314966904410/Home?publish=yes
 
+![Screenshot 2024-11-13 at 12 35 04 PM](https://github.com/user-attachments/assets/dea60dad-c402-442b-bc32-8f0ad8268e66)
+![Screenshot 2024-11-13 at 12 35 18 PM](https://github.com/user-attachments/assets/f8845e9b-9743-49e7-9ef6-048dfa016e51)
+
 ## Overview
 This project showcases a **Pizza Sales Dashboard** created using Tableau to visualize and analyze key metrics and trends for a pizza sales dataset. The dashboard highlights important KPIs, such as total revenue, total pizzas sold, and order trends, to aid in data-driven decision-making.
 
