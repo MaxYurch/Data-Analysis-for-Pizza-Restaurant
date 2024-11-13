@@ -50,3 +50,10 @@ This project showcases a **Pizza Sales Dashboard** created using Tableau to visu
 - **MySQL**: For data aggregation and transformation.
 
 ## Repository Structure
+
+Pizza-Sales-Dashboard/ ├── Pizza Sales Report dashboard.twbx # Tableau dashboard ├── Pizza.csv # Pizza sales data ├── PIZZA SALES SQL QUERIES.docx # SQL queries for analysis └── README.md # Project documentation
+
+## About
+This project was designed to provide actionable insights into pizza sales for businesses looking to optimize their operations and enhance decision-making.
+
+---
